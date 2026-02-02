@@ -1,0 +1,23 @@
+{
+  "Process Parameters": {
+    "Aust_Temp": 849.7660522460938,
+    "Aust_Time": 61.74191665649414,
+    "Cooling_Rate": 75.39373779296875,
+    "Quench_Temp": 101.77828216552734,
+    "Temp_Temp": 421.9108581542969,
+    "Temp_Time": 125.1040267944336
+  },
+  "Microstructure": {
+    "Martensite_Pct": 40.28676223754883,
+    "Bainite_Pct": 24.374652862548828,
+    "Ferrite_Pct": 0.6873701214790344,
+    "Pearlite_Pct": 36.36118698120117,
+    "Grain_Size": 11.17907428741455
+  },
+  "Mechanical Properties": {
+    "Hardness_HRC": 42.47735595703125,
+    "Yield_Strength": 1449.6444091796875,
+    "Tensile_Strength": 1824.93896484375,
+    "Elongation": 16.998291015625
+  }
+}
