@@ -11,7 +11,7 @@ from cnn_vae_steel import Config, load_trained_model, predict_from_image
 # Page configuration
 st.set_page_config(page_title="Steel Microstructure Analyzer", layout="wide")
 
-st.title("🔬 Steel Microstructure Property Predictor")
+st.title("🔬 VAE- SteelLAB")
 st.markdown("""
 This application uses a **CNN-VAE** model to analyze microstructure images and predict 
 heat treatment parameters, phase fractions, and mechanical properties.
