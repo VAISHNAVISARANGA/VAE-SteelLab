@@ -4,7 +4,7 @@
 This project implements a **Convolutional Variational Autoencoder (CNN-VAE)** designed for materials informatics. It bridges the gap between visual microstructure data and quantitative material properties, allowing users to predict heat treatment history, phase composition, and mechanical performance from a single micrograph.
 
 ---
-
+##  APP LINK: https://vae-steellab.streamlit.app/ 
 ## 📖 Reference Paper & Dataset Generation
 
 The dataset used in this project consists of **500 samples** that were synthetically generated to replicate the physical laws and methodology described in the following research:
