@@ -1,5 +1,5 @@
 
-# Steel Microstructure Analysis & Property Prediction
+# VAE- SteelLAB
 
 This project implements a **Convolutional Variational Autoencoder (CNN-VAE)** designed for materials informatics. It bridges the gap between visual microstructure data and quantitative material properties, allowing users to predict heat treatment history, phase composition, and mechanical performance from a single micrograph.
 
